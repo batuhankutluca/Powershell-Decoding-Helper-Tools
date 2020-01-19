@@ -1,3 +1,3 @@
 # Powershell-Decoding-Helper-Tools
 
-Bunch of tools that helps you to decode malicious powershell scripts. 
+Bunch of C# tools that helps you to decode malicious powershell scripts. 
